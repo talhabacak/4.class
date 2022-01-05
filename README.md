@@ -1,4 +1,4 @@
 # 4.class
 
-- Sistem Programlama:
+- System Programming:
 https://github.com/talhabacak/gains_webapp
